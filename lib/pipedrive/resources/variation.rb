@@ -2,6 +2,5 @@
 
 module Pipedrive
   class Variation < Resource
-    include Fields
   end
 end
